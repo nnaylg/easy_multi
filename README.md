@@ -8,7 +8,7 @@ Une fois connecté à votre serveur il suffit de faire 2 commandes:
 
 > git clone https://github.com/CryptoRobotFr/easy_live.git (attention ne pas copier coller toute la commande)
 
-renommer le repertoire easy_live si vous souhaitez avoir plusieurs bots 
+renommer le repertoire easy_multi si vous souhaitez avoir plusieurs bots 
 > cd <votre repertoire>
 > bash install.sh
 
