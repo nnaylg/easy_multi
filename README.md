@@ -19,3 +19,4 @@ vous pouvez avoir les infos de la derniere execution du bot dans le fichier cron
 ## Liste des stratégies disponibles:
 - cross_ema_secure
 - alligator
+- trix  
